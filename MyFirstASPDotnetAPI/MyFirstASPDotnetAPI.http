@@ -1,0 +1,6 @@
+@MyFirstASPDotnetAPI_HostAddress = http://localhost:5205
+
+GET {{MyFirstASPDotnetAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
