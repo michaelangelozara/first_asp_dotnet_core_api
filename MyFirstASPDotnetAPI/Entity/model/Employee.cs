@@ -14,7 +14,7 @@
 
         public decimal Salary { get; set; }
 
-        public Employee(Guid Id, string FirstName, string MiddleName, string LastName, string Email, string PhoneNumber, decimal Salary) {
+        public Employee(Guid Id, string FirstName, string MiddleName, string LastName, string Email, string? PhoneNumber, decimal Salary) {
             this.Id = Id;
             this.FirstName = FirstName;
             this.MiddleName = MiddleName;
@@ -24,7 +24,7 @@
             this.Salary = Salary;
         }
 
-        public Employee(string FirstName, string MiddleName, string LastName, string Email, string PhoneNumber, decimal Salary) {
+        public Employee(string FirstName, string MiddleName, string LastName, string Email, string? PhoneNumber, decimal Salary) {
             this.FirstName = FirstName;
             this.MiddleName = MiddleName;
             this.LastName = LastName;

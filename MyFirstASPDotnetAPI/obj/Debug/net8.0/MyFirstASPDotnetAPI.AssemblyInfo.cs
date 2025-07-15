@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyFirstASPDotnetAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef06c9e985ccb1241bce52434e2681372414ebf7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e356207b4ca639abf3bf39cba79cc7a22042f93b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyFirstASPDotnetAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyFirstASPDotnetAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

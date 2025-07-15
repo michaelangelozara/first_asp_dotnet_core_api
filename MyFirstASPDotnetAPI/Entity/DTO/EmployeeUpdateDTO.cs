@@ -1,5 +1,5 @@
 ﻿namespace MyFirstASPDotnetAPI.Entity.DTO {
-    public record EmployeeAddDTO(string FirstName, string MiddleName, string LastName, string Email, string PhoneNumber) {
+    public class EmployeeUpdateDTO(string FirstName, string MiddleName, string LastName, string Email, string PhoneNumber) {
         public string FirstName { get; set; } = FirstName;
 
         public string MiddleName { get; set; } = MiddleName;
