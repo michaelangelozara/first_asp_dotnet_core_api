@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.IdentityModel.Tokens;
+﻿using Microsoft.AspNetCore.Mvc;
 using MyFirstASPDotnetAPI.Database;
 using MyFirstASPDotnetAPI.Entity.DTO;
 using MyFirstASPDotnetAPI.Entity.model;
